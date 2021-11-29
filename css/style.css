@@ -1,12 +1,66 @@
 .navbar ul {
-    list-style-type: none;
-    padding: 0;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-    flex-wrap: nowrap; /* assumes you only want one row */
-  }
+  list-style-type: none;
+  padding: 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-wrap: nowrap; /* assumes you only want one row */
+}
 
-  .alignCenter {
-     align-items: center;
-  }
+.alignCenter {
+  align-items: center;
+}
+
+.img-amazon {
+  width: 30%;
+  height: 60%;
+}
+
+.row-padding {
+  padding-top: 80px;
+}
+
+.align-center {
+  text-align: center;
+}
+
+.top-padding {
+  padding-top: 100px;
+}
+
+.right-padding {
+  padding-right: 90px;
+}
+
+.ffire {
+  font-size: xx-large;
+  color: orange;
+  float: right;
+}
+
+.right-padding-two {
+  padding-right: 80px;
+}
+
+.padding-right {
+  padding-right: 80px;
+}
+
+.padding-top-70 {
+  padding-top: 70px;
+}
+
+.iframe-style {
+  width: 560px;
+  height: 315px;
+  border: none;
+}
+
+.footer-style {
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.align-t {
+  text-align: right;
+}
